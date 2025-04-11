@@ -19,9 +19,11 @@ Traditional alt-text generation often lacks **contextual understanding**, leadin
 ---
 ## Evaluation Dataset
 
-Composed of 1000 items with each item containing full article text, related image header, and alt-text of the image. All collected via New York Times API (and web scraped).
+Composed of 1000 items with each item containing full article text, related image header, and alt-text of the image.
 
-To be uploaded
+All data points were collected via the New York Times API and additional web scraping for alignment of image-text pairs.
+
+Note: Due to copyright restrictions, we cannot release the full dataset. However, we provide:
 
 ---
 
