@@ -14,10 +14,14 @@ Traditional alt-text generation often lacks **contextual understanding**, leadin
 - 🧠 **Context Summarization** using NLP models
 - 🔗 **Image-Context Fusion** OpenAI Integration
 - 🧾 **Generate high-quality**, contextual alt-text for accessibility
+- 😛 **Aggregated Dataset**, comprised of 1000 images, text, and alt-text
 
 ---
 ## Evaluation Dataset
 
+Composed of 1000 items with each item containing full article text, related image header, and alt-text of the image. All collected via New York Times API (and web scraped).
+
+To be uploaded
 
 ---
 
